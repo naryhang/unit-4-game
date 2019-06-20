@@ -1,1 +1,81 @@
+body {
+    background-color: white;
+}
+
+
+.fighters {
+    display: flex;    
+}
+
+
+.fighter {
+    border:1px solid black;
+    height:200px;
+    width:200px;
+}
+
+h1 {
+    background-color: white;
+    color: brown;
+    width: 600px;
+    height: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#rules {
+
+    background-color: white;
+    color: black;
+    width: 450px;
+    height: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#result {
+    background-color: white;
+    color: darkblue;
+    width: 250px;
+    height: 35px;
+    font-size: 150%;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#score {
+    background-color:white;
+    color: darkgreen;
+    width: 250px;
+    height: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#win {
+    background-color: white;
+    color: gray;
+    width: 70px;
+    height: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#lost {
+    background-color: white;
+    color:gray;
+    width: 100px;
+    height: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 40px;
+    
+}
+
+
+
+
+    
+   
+
+
 
