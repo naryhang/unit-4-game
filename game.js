@@ -9,7 +9,7 @@ var resetAndStart = function () {
 $(".fighters").empty();
 
 var images = [
-    'https://8wayrun.com/attachments/cersc5cg1-jpg.12284/',
+    'http://www.game-art-hq.com/wp-content/uploads/2011/07/Soul-Calibur-Broken-Destiny-Cervantes-Render-Game-Art-Work.jpg',
     'https://i.redd.it/tugqcypathq11.jpg',
     'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimEASwV-_8s3nbcpALhggSUmk1LMGwhTyGa406EoLZbmYpEWZsg',
     'https://vignette.wikia.nocookie.net/soulcalibur/images/9/95/Sc5-hilde.jpg/revision/latest?cb=20180413175554'
