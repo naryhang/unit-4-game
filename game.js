@@ -12,7 +12,7 @@ var images = [
     'http://www.game-art-hq.com/wp-content/uploads/2011/07/Soul-Calibur-Broken-Destiny-Cervantes-Render-Game-Art-Work.jpg',
     'https://i.redd.it/tugqcypathq11.jpg',
     'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimEASwV-_8s3nbcpALhggSUmk1LMGwhTyGa406EoLZbmYpEWZsg',
-    'https://vignette.wikia.nocookie.net/soulcalibur/images/9/95/Sc5-hilde.jpg/revision/latest?cb=20180413175554'
+    'https://vignette.wikia.nocookie.net/soulcalibur/images/0/0d/SC6_Tira.jpg/revision/latest?cb=20180821102334'
 ];
 
 random_result = Math.floor(Math.random() * 69) + 30;
